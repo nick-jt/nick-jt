@@ -10,4 +10,4 @@ My most recent project relates to learning optimal GPU programming for scientifi
 I work as a graduate student at the University of Connecticut under Prof. Xinyu Zhao.
 Our lab researches combustion, heat transfer, and thermodynamics with applications from fire safety to aeronautical engines.
 
-Please reach out for questions or ideas: nicolas.tricard@uconn.edu
+Please reach out for questions or ideas: nicktricard@gmail.com

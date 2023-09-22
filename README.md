@@ -3,11 +3,14 @@
 
 Hi, I’m @nick-jt (Nick Tricard). 
 
-I develop computationally efficient models for combustion and heat transfer systems.
-These models often rely heavily on parallelism (CPU, GPU, distributed-memory) to ensure accurate simulations at low computational cost.
-My most recent project relates to learning optimal GPU programming for scientific ray-tracing.
+I develop computationally efficient models for chemical, fluid dynamic, and heat transfer systems.
+These models often rely heavily on parallelism (CPU, GPU, distributed memory) to enable accurate simulations at low computational runtime.
+My most recent project relates to GPU programming for scientific ray-tracing.
 
-I work as a graduate student at the University of Connecticut under Prof. Xinyu Zhao.
-Our lab researches combustion, heat transfer, and thermodynamics with applications from fire safety to aeronautical engines.
+I work as a graduate student at MIT under Prof. Sili Deng. My work involves modeling of chemical and combustion processes using machine learning and high performance computing.
 
-Please reach out for questions or ideas: nicktricard@gmail.com or https://www.linkedin.com/in/nick-tricard/
+I came from the University of Connecticut and worked under Prof. Xinyu Zhao, where I studied combustion, heat transfer, and thermodynamics with applications from fire safety to aeronautical engines.
+
+I have interests in machine learning/AI, molecular dynamics, CFD, and more!
+
+Please reach out for questions or ideas: ntricard@mit.edu or https://www.linkedin.com/in/nick-tricard/

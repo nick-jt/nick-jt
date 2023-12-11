@@ -3,7 +3,7 @@
 
 Hi, I’m @nick-jt (Nick Tricard). 
 
-I develop computationally efficient models for chemical, fluid dynamic, and heat transfer systems.
+I develop computationally efficient models.
 These models often rely heavily on parallelism (CPU, GPU, distributed memory) to enable accurate simulations at low computational runtime.
 My most recent project relates to GPU programming for scientific ray-tracing.
 

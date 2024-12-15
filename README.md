@@ -3,8 +3,8 @@
 
 Hi, I’m @nick-jt (Nick Tricard). 
 
-I develop computationally efficient models.
-These models often rely heavily on parallelism (CPU, GPU, distributed memory) to enable accurate simulations at low computational runtime.
+I develop efficient models for scientific computing.
+These models often rely heavily on parallelism (CPU, GPU, distributed memory) and machine learning to enable accurate simulations at low computational runtime.
 My most recent project relates to TPU programming for scientific particle tracking.
 
 I work as a graduate student at MIT under Prof. Sili Deng. My work involves modeling of chemical and combustion processes using machine learning and high performance computing.
